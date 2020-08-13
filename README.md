@@ -1,0 +1,2 @@
+# DeviceScanActivity
+ 
